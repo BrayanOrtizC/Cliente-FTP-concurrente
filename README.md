@@ -1,4 +1,3 @@
-# Cliente-FTP-concurrente
 (Se agregó al repositorio también los archivos facilitados por el profesor solo como respaldo).
 
 
