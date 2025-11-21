@@ -477,7 +477,7 @@ int main(int argc, char *argv[]) {
             printf("%s",resp);
             break;
 
-        /* ---------- COMANDO GENÉRICO ---------- */
+        /* ---------- COMANDO GENÃ‰RICO ---------- */
         } else {
             if(args[0]!='\0') send_cmd(ctrl,"%s %s",cmd,args);
             else send_cmd(ctrl,"%s",cmd);
